@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋
 
-<!--
-**lfsaga/lfsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇪🇸 Software developer from Spain.
+- 🔨 SaaS. Laravel and React mostly.
+- 🤵🏻 Backend team.
+- 📋 Topics:
+    - Collaborative workflows.
+    - Cloud skills, including Linux and networking.
+    - Comprehensive backend development (mostly with Laravel or ExpressJS).
+    - Authentication systems.
+    - Modern frontend solutions with React or Vue.
+    - Diving into microservices, domain-driven design, and message broker patterns.
+    - Diving into data science.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📳 [apkpure-downloader](https://github.com/lfsaga/apkpure-downloader?tab=readme-ov-file#apkpure-downloader) is my first public tool to "*Download APK files from apkpure.com in a better way*."

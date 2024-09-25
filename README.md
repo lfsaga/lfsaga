@@ -13,3 +13,4 @@ Hi 👋
     - Diving into data science.
 
 - 📳 [apkpure-downloader](https://github.com/lfsaga/apkpure-downloader?tab=readme-ov-file#apkpure-downloader) is my first public tool to "*Download APK files from apkpure.com in a better way*."
+- [`email me`](mailto:luisfesaga99@gmail.com)
